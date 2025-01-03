@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\00271439-4196-4686-8e08-d6dc7d901222.jpg",
+      "PackagePath": "staticwebassets\\Files\\00271439-4196-4686-8e08-d6dc7d901222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\0ec420a1-77f5-4f47-b7ee-4f3794db7d18.jpg",
+      "PackagePath": "staticwebassets\\Files\\0ec420a1-77f5-4f47-b7ee-4f3794db7d18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\1679f021-acb9-4fca-92b4-dfcceabb5d25.jpg",
+      "PackagePath": "staticwebassets\\Files\\1679f021-acb9-4fca-92b4-dfcceabb5d25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\61707803-e8ed-4fb8-b467-143dce8c75ac.jpg",
+      "PackagePath": "staticwebassets\\Files\\61707803-e8ed-4fb8-b467-143dce8c75ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\6e435ea0-1cb2-4bc6-8624-7d674780bf9a.jpg",
+      "PackagePath": "staticwebassets\\Files\\6e435ea0-1cb2-4bc6-8624-7d674780bf9a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\71006b94-c10c-4a67-82ac-40eb6416eeb9.jpg",
+      "PackagePath": "staticwebassets\\Files\\71006b94-c10c-4a67-82ac-40eb6416eeb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\a4db86d6-eefa-49a6-ac50-54f21710338f.jpg",
+      "PackagePath": "staticwebassets\\Files\\a4db86d6-eefa-49a6-ac50-54f21710338f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\a5e3307f-d462-4388-9db4-239b25201001.jpg",
+      "PackagePath": "staticwebassets\\Files\\a5e3307f-d462-4388-9db4-239b25201001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\c305509a-21f9-46ba-943e-44ce1de1a51b.jpg",
+      "PackagePath": "staticwebassets\\Files\\c305509a-21f9-46ba-943e-44ce1de1a51b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rafhael\\source\\repos\\Inovamobil\\Desafio.Api\\wwwroot\\Files\\e27ebd67-d250-4c81-ab6e-47c76d25d4f8.jpg",
+      "PackagePath": "staticwebassets\\Files\\e27ebd67-d250-4c81-ab6e-47c76d25d4f8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Desafio.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Desafio.Api.props",
+      "PackagePath": "build\\Desafio.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Desafio.Api.props",
+      "PackagePath": "buildMultiTargeting\\Desafio.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Desafio.Api.props",
+      "PackagePath": "buildTransitive\\Desafio.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
